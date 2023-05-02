@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <img src="https://user-images.githubusercontent.com/26466516/141659551-d7ba5630-7200-46fe-863b-87818dae970a.png" alt="Next.js TypeScript Starter">
 </p>
@@ -127,3 +128,6 @@ This starter uses pnpm by default, but this choice is yours. If you'd like to sw
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for more information.
+=======
+# typescript-tailwind-nextjs-starter
+>>>>>>> 1a31d9b10b9a47b34c42057d698cf4791ec86232
